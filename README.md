@@ -13,4 +13,4 @@
 
 <img width="681" height="143" alt="image" src="https://github.com/user-attachments/assets/56e0e022-9e5f-4da9-b7dc-2a60d66ccfcf" />
 
-"wachtwoord genarotr test2.py" gives you the most amount off customazation with the numbers letters en symbols you can adjust to your preferences
+"wachtwoordgeneratorV2py" gives you the most amount off customazation with the numbers letters en symbols you can adjust to your preferences
