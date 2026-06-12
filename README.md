@@ -2,12 +2,12 @@
 
 <img width="143" height="28" alt="image" src="https://github.com/user-attachments/assets/c1031f0e-ed38-4040-95b3-2b891c9b7401" />
 
-"random wachtwoord generator.py" generates a ramdon password based off the amount of charaters you provide 
+"random wachtwoord generator.py" generates a randon password based off the amount of characters you provide 
 
 
 <img width="488" height="78" alt="image" src="https://github.com/user-attachments/assets/aa317788-2878-4bcd-b773-d6cd866cb209" />
 
-"wachtwoordgenerator.py"  generates a ramdon password based off the amount of charaters you provide and the amount off password you want can also be adjusted
+"wachtwoordgenerator.py"  generates a randon password based off the amount of characters you provide and the amount off password you want can also be adjusted
 
 
 
