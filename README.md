@@ -1,7 +1,7 @@
 # short explaination wat makes them different
 <img width="488" height="78" alt="image" src="https://github.com/user-attachments/assets/aa317788-2878-4bcd-b773-d6cd866cb209" />
 
-wachtwoordgenerator.py generates a ramdon password based on the amount of spots you assign meaning if you type 8 you will get a password 8 charaters long
+wachtwoordgenerator.py generates a ramdon password based off the amount of charaters you provide 
 
 
 <img width="681" height="143" alt="image" src="https://github.com/user-attachments/assets/56e0e022-9e5f-4da9-b7dc-2a60d66ccfcf" />
